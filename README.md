@@ -1,12 +1,12 @@
 # Hi there, I'm Zaynobiddin 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00C853&center=true&vCenter=true&width=940&lines=Android+Developer+%F0%9F%93%B1;Java+%26+Kotlin+Expert+%E2%98%95%F0%9F%9A%80;Building+Quality+Mobile+Apps+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00C853&center=true&vCenter=true&width=940&lines=Android+Developer+%F0%9F%93%B1;Java+%26+Kotlin[...]
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate **Android Developer** specializing in creating high-quality mobile applications using **Java** and **Kotlin**. I love turning ideas into reality through clean, efficient code and exceptional user experiences.
+I'm a passionate **Android Developer** specializing in creating high-quality mobile applications using **Java** and **Kotlin**. I love turning ideas into reality through clean, efficient code and exce[...]
 
 - 🔭 Currently working on advanced Android development projects
 - 🌱 Continuously learning and exploring new Android technologies
@@ -40,12 +40,12 @@ I'm a passionate **Android Developer** specializing in creating high-quality mob
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaynobiddin-android&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C853&icon_color=00C853&text_color=FFFFFF" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaynobiddin-android&theme=radical&hide_border=true&background=0D1117&stroke=00C853&ring=00C853&fire=FF6D00&currStreakLabel=00C853" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zaynobiddin-android&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C853&icon_color=00C853&text_color=FFFFF[...]
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaynobiddin-android&theme=radical&hide_border=true&background=0D1117&stroke=00C853&ring=00C853&fire=FF6D00&currStreakLabel=00C853" al[...]
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaynobiddin-android&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C853&text_color=FFFFFF" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaynobiddin-android&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C853&text_color=FFFFFF" alt="[...]
 </div>
 
 ## 🏆 GitHub Trophies
