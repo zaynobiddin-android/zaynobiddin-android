@@ -34,7 +34,7 @@
 👨‍💻 **Role:** Back-end Developer  
 🎯 **Focus:** Java, Spring Boot, RESTful APIs, Database Optimization  
 📚 **Currently Learning:** Advanced Microservices Architecture, Cloud Computing (AWS), Kubernetes  
-⚙️ **Experience:** 3+ years  
+⚙️ **Experience:** 1+ years  
 🔥 **Passion:** Building scalable, maintainable back-end systems and services.  
 🤝 **Open To:** Collaborations, Open Source, Innovative Back-end Projects  
 
