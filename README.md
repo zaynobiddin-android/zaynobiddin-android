@@ -70,12 +70,6 @@
 
 ## 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zaynobiddin-android&show_icons=true&theme=react&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaynobiddin-android&layout=compact&theme=react&hide_border=true)
-
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=zaynobiddin-android&theme=react-dark&hide_border=true)
 
 
