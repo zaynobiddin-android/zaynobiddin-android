@@ -1,130 +1,247 @@
+<!-- ═══════════════════════════════════════════════════════════════
+     ZAYNOBIDDIN KAMOLIDDINOV  —  GitHub Profile README
+     ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Zaynobiddin%20Kamoliddinov&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Back-End%20Engineer%20%7C%20Java%20Specialist&descAlignY=62&descSize=18&descColor=A9FEF7" width="100%"/>
+<!-- ══ ANIMATED HEADER ══ -->
+<img src="https://capsule-render.vercel.app/api?type=dragon&color=gradient&customColorList=6,12,24,30&height=240&section=header&text=Zaynobiddin%20Kamoliddinov&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=⚡%20Back-End%20Engineer%20%7C%20Java%20Specialist%20%7C%20Uzbekistan%20🇺🇿&descAlignY=65&descSize=18&descColor=A9FEF7" width="100%"/>
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Crafting+High-Performance+Back-End+Systems+%F0%9F%9A%80;Spring+Boot+%7C+Microservices+%7C+Clean+Architecture+%E2%9A%A1;Turning+Complex+Problems+into+Elegant+Solutions+%F0%9F%8E%AF;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+<!-- ══ ANIMATED TYPING BANNER ══ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2800&pause=1600&color=58A6FF&center=true&vCenter=true&repeat=true&width=780&lines=🚀+Crafting+High-Performance+Back-End+Systems;⚡+Spring+Boot+%7C+Microservices+%7C+Clean+Architecture;🔐+JWT+%7C+OAuth2+%7C+Spring+Security;🗄️+PostgreSQL+%7C+Redis+%7C+MongoDB;☁️+AWS+%7C+Docker+%7C+Kubernetes;🎯+Turning+Complex+Problems+into+Elegant+Solutions;🔥+Always+Learning.+Always+Shipping." alt="Typing SVG"/>
+
+<br/><br/>
+
+<!-- ══ SOCIAL BADGES ══ -->
+<a href="https://github.com/zaynobiddin-android">
+  <img src="https://img.shields.io/badge/GitHub-zaynobiddin--android-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:zaynobiddinkamoliddinov4@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-zaynobiddinkamoliddinov4-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://t.me/ZKB004">
+  <img src="https://img.shields.io/badge/Telegram-@ZKB004-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/zkb004/">
+  <img src="https://img.shields.io/badge/Instagram-@zkb004-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<p>
-  <a href="https://github.com/zaynobiddin-android">
-    <img src="https://img.shields.io/badge/GitHub-zaynobiddin--android-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:zaynobiddinkamoliddinov4@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-zaynobiddinkamoliddinov4-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://t.me/ZKB004">
-    <img src="https://img.shields.io/badge/Telegram-@ZKB004-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/zkb004/">
-    <img src="https://img.shields.io/badge/Instagram-@zkb004-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=zaynobiddin-android&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS"/>
-</p>
+<!-- ══ STATUS BADGES ══ -->
+<img src="https://img.shields.io/badge/🟢_Status-Open%20to%20Work-00D084?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/⚡_Focus-Back--End%20Engineering-58A6FF?style=for-the-badge&logo=openjdk&logoColor=white"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=zaynobiddin-android&color=A9FEF7&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
----
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,12,24&height=6&section=header" width="100%"/>
 
 ## `$ whoami`
 
 ```java
-@Component
-public class ZaynobiddinKamoliddinov implements BackEndDeveloper {
+import org.springframework.stereotype.Service;
 
-    private final String name     = "Zaynobiddin Kamoliddinov";
-    private final String role     = "Back-End Engineer | Java Specialist";
-    private final String focus    = "Scalable Microservices & RESTful APIs";
-    private final String location = "Uzbekistan 🇺🇿";
+/**
+ * Zaynobiddin Kamoliddinov
+ * Back-End Engineer | Java Specialist
+ * ---------------------------------------------------
+ * "Great software is not built — it is engineered."
+ */
+@Service
+public class ZaynobiddinKamoliddinov implements BackEndEngineer {
 
-    private final String[] currentlyLearning = {
+    @Value("${dev.name}")        private final String NAME     = "Zaynobiddin Kamoliddinov";
+    @Value("${dev.role}")        private final String ROLE     = "Back-End Engineer · Java Specialist";
+    @Value("${dev.location}")    private final String LOCATION = "Uzbekistan 🇺🇿";
+    @Value("${dev.experience}")  private final String EXP      = "1+ Year · Production-Grade APIs";
+
+    private final List<String> stack = List.of(
+        "Java 17+", "Spring Boot 3", "Spring Security",
+        "Hibernate / JPA", "PostgreSQL", "Redis",
+        "Docker", "AWS", "Kafka", "REST · GraphQL"
+    );
+
+    private final List<String> learning = List.of(
         "Advanced Microservices Architecture",
-        "Cloud Infrastructure (AWS)",
-        "Kubernetes & Container Orchestration"
-    };
+        "Cloud Infrastructure — AWS (EC2, RDS, S3, Lambda)",
+        "Container Orchestration with Kubernetes"
+    );
 
-    private final String[] openTo = {
-        "Freelance Projects",
-        "Open Source Contributions",
-        "Full-Time Opportunities"
-    };
+    private final Map<String, Boolean> openTo = Map.of(
+        "Freelance Projects",        true,
+        "Full-Time Opportunities",   true,
+        "Open Source Contributions", true,
+        "Technical Collaborations",  true
+    );
 
     @Override
-    public String getPassion() {
-        return "Building systems that are fast, clean, and built to last.";
+    public String getPhilosophy() {
+        return """
+            Write code that's readable today,
+            maintainable tomorrow,
+            and scalable forever.
+            """;
+    }
+
+    public static void main(String[] args) {
+        System.out.println("🚀 Building the back-end, one clean commit at a time.");
     }
 }
 ```
 
----
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,12,24&height=6&section=header" width="100%"/>
 
 ## ⚙️ Tech Arsenal
 
 <div align="center">
 
-### Core Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate&theme=dark&perline=4" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,spring,maven,gradle,hibernate&theme=dark&perline=5" /><br/>
+<sub><b>Core Back-End</b></sub>
 
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis&theme=dark&perline=4" />
-</p>
+<br/>
 
-### DevOps & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux&theme=dark&perline=4" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite&theme=dark&perline=5" /><br/>
+<sub><b>Databases</b></sub>
 
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,idea,postman&theme=dark&perline=4" />
-</p>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx&theme=dark&perline=5" /><br/>
+<sub><b>DevOps & Cloud</b></sub>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,idea,postman,kafka&theme=dark&perline=5" /><br/>
+<sub><b>Tools & Platforms</b></sub>
+
+<br/><br/>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 </div>
 
----
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,12,24&height=6&section=header" width="100%"/>
 
 ## 📊 Tech Proficiency
 
 <div align="center">
 
-### Back-End & Core
+<table>
+<tr><th>Skill</th><th>Category</th><th>Level</th><th>Progress</th></tr>
 
-| Skill | Level | Badge |
-|:------|:-----:|:------|
-| Java | Expert | ![Java](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━░-95%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| Spring Boot | Advanced | ![Spring](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━░░-90%25-6DB33F?style=flat-square&logo=springboot&logoColor=white) |
-| Spring Security | Advanced | ![Security](https://img.shields.io/badge/━━━━━━━━━━━━━━━━░░░░-80%25-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) |
-| Hibernate / JPA | Advanced | ![Hibernate](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━░░░-85%25-59666C?style=flat-square&logo=hibernate&logoColor=white) |
-| REST API Design | Expert | ![REST](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━░░-92%25-58A6FF?style=flat-square&logo=postman&logoColor=white) |
+<tr>
+<td><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <b>Java 17+</b></td>
+<td>Core</td><td>⭐ Expert</td>
+<td><img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░-95%25-ED8B00?style=flat-square"/></td>
+</tr>
 
-### Databases
+<tr>
+<td><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <b>Spring Boot</b></td>
+<td>Framework</td><td>⭐ Expert</td>
+<td><img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░-90%25-6DB33F?style=flat-square"/></td>
+</tr>
 
-| Skill | Level | Badge |
-|:------|:-----:|:------|
-| PostgreSQL | Advanced | ![PostgreSQL](https://img.shields.io/badge/━━━━━━━━━━━━━━━━░░░░-82%25-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| MySQL | Advanced | ![MySQL](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━░░░░-85%25-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| MongoDB | Intermediate | ![MongoDB](https://img.shields.io/badge/━━━━━━━━━━━━░░░░░░░░-65%25-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| Redis | Intermediate | ![Redis](https://img.shields.io/badge/━━━━━━━━━━━░░░░░░░░░░-60%25-DC382D?style=flat-square&logo=redis&logoColor=white) |
+<tr>
+<td><img src="https://img.shields.io/badge/REST%20APIs-58A6FF?style=flat-square&logo=postman&logoColor=white"/> <b>REST API Design</b></td>
+<td>Architecture</td><td>⭐ Expert</td>
+<td><img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░-92%25-58A6FF?style=flat-square"/></td>
+</tr>
 
-### DevOps & Cloud
+<tr>
+<td><img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/> <b>Hibernate / JPA</b></td>
+<td>ORM</td><td>🔷 Advanced</td>
+<td><img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░-85%25-59666C?style=flat-square"/></td>
+</tr>
 
-| Skill | Level | Badge |
-|:------|:-----:|:------|
-| Docker | Intermediate | ![Docker](https://img.shields.io/badge/━━━━━━━━━━━━░░░░░░░░-65%25-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| AWS | Learning | ![AWS](https://img.shields.io/badge/━━━━━━━━░░░░░░░░░░░░-45%25-FF9900?style=flat-square&logo=amazonaws&logoColor=white) |
-| Kubernetes | Learning | ![K8s](https://img.shields.io/badge/━━━━━━━░░░░░░░░░░░░░-40%25-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
-| Git & GitHub | Expert | ![Git](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━░░-92%25-F05032?style=flat-square&logo=git&logoColor=white) |
+<tr>
+<td><img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/> <b>Spring Security</b></td>
+<td>Security</td><td>🔷 Advanced</td>
+<td><img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░-82%25-6DB33F?style=flat-square"/></td>
+</tr>
+
+<tr>
+<td><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <b>PostgreSQL</b></td>
+<td>Database</td><td>🔷 Advanced</td>
+<td><img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░-85%25-4169E1?style=flat-square"/></td>
+</tr>
+
+<tr>
+<td><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <b>MySQL</b></td>
+<td>Database</td><td>🔷 Advanced</td>
+<td><img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░-82%25-4479A1?style=flat-square"/></td>
+</tr>
+
+<tr>
+<td><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <b>Redis</b></td>
+<td>Caching</td><td>🔶 Intermediate</td>
+<td><img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░-65%25-DC382D?style=flat-square"/></td>
+</tr>
+
+<tr>
+<td><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <b>MongoDB</b></td>
+<td>NoSQL</td><td>🔶 Intermediate</td>
+<td><img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░-62%25-47A248?style=flat-square"/></td>
+</tr>
+
+<tr>
+<td><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <b>Docker</b></td>
+<td>DevOps</td><td>🔶 Intermediate</td>
+<td><img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░-68%25-2496ED?style=flat-square"/></td>
+</tr>
+
+<tr>
+<td><img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/> <b>AWS</b></td>
+<td>Cloud</td><td>📖 Learning</td>
+<td><img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓░░░░░░░░░░░-48%25-FF9900?style=flat-square"/></td>
+</tr>
+
+<tr>
+<td><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/> <b>Kubernetes</b></td>
+<td>Orchestration</td><td>📖 Learning</td>
+<td><img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓░░░░░░░░░░░░-42%25-326CE5?style=flat-square"/></td>
+</tr>
+
+</table>
 
 </div>
 
----
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,12,24&height=6&section=header" width="100%"/>
 
 ## 🏗️ What I Build
 
@@ -133,69 +250,70 @@ public class ZaynobiddinKamoliddinov implements BackEndDeveloper {
 <tr>
 <td width="33%" align="center">
 
-**⚡ High-Performance APIs**
-
-Engineered RESTful and GraphQL APIs with Spring Boot built for low latency and high throughput at scale.
-
-</td>
-<td width="33%" align="center">
-
-**🏛️ Clean Architecture**
-
-Applying Domain-Driven Design, SOLID principles, and layered architecture for maintainable codebases.
+### ⚡ High-Performance APIs
+RESTful and GraphQL APIs engineered with Spring Boot for low latency, high throughput, and clean contract design.
 
 </td>
 <td width="33%" align="center">
 
-**🔒 Secure Systems**
+### 🏛️ Clean Architecture
+Domain-Driven Design, SOLID principles, and layered structure for codebases that survive the test of time.
 
-Implementing robust auth flows with Spring Security, JWT, OAuth2, and role-based access control.
+</td>
+<td width="33%" align="center">
+
+### 🔒 Secure Systems
+JWT, OAuth2, Spring Security, RBAC — authentication and authorization built without shortcuts.
 
 </td>
 </tr>
 <tr>
 <td width="33%" align="center">
 
-**📦 Microservices**
-
-Designing loosely-coupled services with Docker, Kubernetes, and async messaging via Kafka/RabbitMQ.
-
-</td>
-<td width="33%" align="center">
-
-**🗄️ Database Mastery**
-
-Optimizing queries, designing schemas, and managing relational and NoSQL databases efficiently.
+### 📦 Microservices
+Loosely-coupled services with Docker, Kubernetes, service discovery, and async messaging via Kafka.
 
 </td>
 <td width="33%" align="center">
 
-**🔁 CI/CD Pipelines**
+### 🗄️ Database Engineering
+Schema design, query optimization, indexing strategies, and N+1 elimination across SQL and NoSQL.
 
-Automating build, test, and deployment workflows with GitHub Actions and cloud platforms.
+</td>
+<td width="33%" align="center">
+
+### 🔁 CI/CD Automation
+Build, test, and deploy pipelines with GitHub Actions — shipping fast without breaking things.
 
 </td>
 </tr>
 </table>
 </div>
 
----
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,12,24&height=6&section=header" width="100%"/>
 
 ## 🎯 Current Focus
 
 <div align="center">
 
-| Status | Goal |
-|:------:|------|
-| 🔄 **In Progress** | Mastering distributed systems & microservices patterns |
-| 🔄 **In Progress** | Deep-diving AWS (EC2, RDS, S3, Lambda) |
-| 🔄 **In Progress** | Container orchestration with Kubernetes |
-| ✅ **Ongoing** | Writing clean, fully-tested Java code every day |
-| ✅ **Ongoing** | Contributing to open source Java/Spring ecosystem |
+| Priority | Goal | Status |
+|:--------:|------|:------:|
+| 🔴 **HIGH** | Distributed systems & advanced microservices patterns | 🔄 In Progress |
+| 🔴 **HIGH** | AWS Cloud — EC2, RDS, S3, Lambda, API Gateway | 🔄 In Progress |
+| 🟡 **MED** | Kubernetes — pods, services, deployments, ingress | 🔄 In Progress |
+| 🟡 **MED** | Apache Kafka — event-driven architecture at scale | 🔄 In Progress |
+| 🟢 **CORE** | Writing clean, fully-tested Java code every single day | ✅ Ongoing |
+| 🟢 **CORE** | Open source contributions to Java / Spring ecosystem | ✅ Ongoing |
 
 </div>
 
----
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,12,24&height=6&section=header" width="100%"/>
 
 ## 🧠 Engineering Principles
 
@@ -203,122 +321,155 @@ Automating build, test, and deployment workflows with GitHub Actions and cloud p
 
 <table>
 <tr>
-<td align="center" width="25%">
-
-<br/>
+<td align="center" width="25%"><br/>
 
 **🔴 SOLID**
 
-Every class has one reason to change. Dependencies point inward. Abstractions over implementations.
+Every class — one reason to change. Dependencies point inward. Always favor abstractions.
 
-<br/>
-
-</td>
-<td align="center" width="25%">
-
-<br/>
+<br/></td>
+<td align="center" width="25%"><br/>
 
 **🟡 Clean Code**
 
-Code is read 10× more than it's written. Names tell stories. Functions do one thing, perfectly.
+Code is read 10× more than written. Names tell stories. Functions do one thing, perfectly.
 
-<br/>
+<br/></td>
+<td align="center" width="25%"><br/>
 
-</td>
-<td align="center" width="25%">
+**🟢 Test-Driven**
 
-<br/>
+Tests are not optional. A feature without tests is a future bug. TDD is a mindset.
 
-**🟢 Test First**
-
-Tests are not optional. A feature without tests is a bug waiting to happen. TDD is a mindset.
-
-<br/>
-
-</td>
-<td align="center" width="25%">
-
-<br/>
+<br/></td>
+<td align="center" width="25%"><br/>
 
 **🔵 Design Patterns**
 
-Don't reinvent the wheel — understand it. Factory, Strategy, Observer, and beyond.
+Don't reinvent — understand. Factory, Strategy, Builder, Observer, and beyond.
 
-<br/>
-
-</td>
+<br/></td>
 </tr>
 <tr>
-<td align="center" width="25%">
-
-<br/>
+<td align="center" width="25%"><br/>
 
 **⚡ Performance**
 
-Profile before optimizing. Know your N+1 problems. Cache what matters, index what's queried.
+Profile before optimizing. Kill N+1 problems. Cache what matters, index what's queried.
 
-<br/>
+<br/></td>
+<td align="center" width="25%"><br/>
 
-</td>
-<td align="center" width="25%">
+**🔒 Security First**
 
-<br/>
+Never trust input. Authenticate then authorize. Secrets belong in vaults, never in code.
 
-**🔒 Security**
-
-Never trust user input. Authenticate, then authorize. Secrets belong in vaults, not in code.
-
-<br/>
-
-</td>
-<td align="center" width="25%">
-
-<br/>
+<br/></td>
+<td align="center" width="25%"><br/>
 
 **📦 12-Factor App**
 
 Config in environment. Stateless processes. Logs as streams. Build once, deploy anywhere.
 
-<br/>
+<br/></td>
+<td align="center" width="25%"><br/>
 
-</td>
-<td align="center" width="25%">
+**🔁 Ship It**
 
-<br/>
+Automate or it's a risk. Ship small, ship often. Broken builds get fixed before anything else.
 
-**🔁 CI/CD**
-
-If it's not automated, it's a risk. Ship small, ship often. Broken builds get fixed first.
-
-<br/>
-
-</td>
+<br/></td>
 </tr>
 </table>
 
 </div>
 
----
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,12,24&height=6&section=header" width="100%"/>
+
+## 🐍 Contribution Activity
+
+<!--
+  ════════════════════════════════════════════════════
+  📌 ONE-TIME SETUP — Contribution Snake Animation
+  ════════════════════════════════════════════════════
+  Step 1: Create this file in your profile repo:
+          .github/workflows/snake.yml
+  Step 2: Paste this workflow content:
+  ─────────────────────────────────────────────────────
+  name: Generate Snake Animation
+  on:
+    schedule: [{ cron: "0 0 * * *" }]
+    workflow_dispatch:
+  jobs:
+    generate:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: ${{ github.repository_owner }}
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v3
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  ─────────────────────────────────────────────────────
+  Step 3: Replace YOUR_GITHUB_USERNAME below with your real username.
+  Step 4: Run the workflow manually once from the Actions tab.
+  ════════════════════════════════════════════════════
+-->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub Contribution Snake" width="100%"
+    src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,12,24&height=6&section=header" width="100%"/>
 
 ## 🤝 Let's Build Something Great
 
 <div align="center">
 
-*I'm open to freelance projects, collaborations, and full-time opportunities.*
-*If you have an interesting back-end challenge — let's talk.*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=2000&color=A9FEF7&center=true&vCenter=true&width=680&lines=Open+for+freelance%2C+collaborations+%26+full-time+opportunities.;Have+a+back-end+challenge%3F+Let%27s+solve+it+together." alt="Typing SVG"/>
 
-<br/>
+<br/><br/>
 
 <a href="mailto:zaynobiddinkamoliddinov4@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Drop_Me_an_Email-D14836?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/📧_Drop_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://t.me/ZKB004">
+  <img src="https://img.shields.io/badge/💬_Message_on_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/zkb004/">
+  <img src="https://img.shields.io/badge/📸_Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="75%"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" width="100%"/>
+<!-- ══ ANIMATED FOOTER ══ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24,30&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=A9FEF7&animation=fadeIn&fontAlignY=65" width="100%"/>
 
 </div>
