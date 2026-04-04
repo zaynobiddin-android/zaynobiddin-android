@@ -16,7 +16,7 @@
 
 <!-- ══ SOCIAL BADGES ══ -->
 <a href="https://github.com/zaynobiddin-java">
-  <img src="https://img.shields.io/badge/GitHub-zaynobiddin--android-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-zaynobiddin--java-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:zaynobiddinkamoliddinov4@gmail.com">
