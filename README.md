@@ -90,24 +90,37 @@ public class ZaynobiddinKamoliddinov implements BackEndDeveloper {
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Tech Proficiency
 
 <div align="center">
 
-<a href="https://github.com/zaynobiddin-android">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zaynobiddin-android&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=A9FEF7&text_color=c9d1d9&ring_color=58A6FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaynobiddin-android&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9"/>
-</a>
+### Back-End & Core
 
-<br/>
+| Skill | Level | Badge |
+|:------|:-----:|:------|
+| Java | Expert | ![Java](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━░-95%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| Spring Boot | Advanced | ![Spring](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━░░-90%25-6DB33F?style=flat-square&logo=springboot&logoColor=white) |
+| Spring Security | Advanced | ![Security](https://img.shields.io/badge/━━━━━━━━━━━━━━━━░░░░-80%25-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) |
+| Hibernate / JPA | Advanced | ![Hibernate](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━░░░-85%25-59666C?style=flat-square&logo=hibernate&logoColor=white) |
+| REST API Design | Expert | ![REST](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━░░-92%25-58A6FF?style=flat-square&logo=postman&logoColor=white) |
 
-<a href="https://github.com/zaynobiddin-android">
-  <img src="https://streak-stats.demolab.com?user=zaynobiddin-android&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=58A6FF&ring=A9FEF7&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF" width="55%"/>
-</a>
+### Databases
 
-<br/>
+| Skill | Level | Badge |
+|:------|:-----:|:------|
+| PostgreSQL | Advanced | ![PostgreSQL](https://img.shields.io/badge/━━━━━━━━━━━━━━━━░░░░-82%25-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| MySQL | Advanced | ![MySQL](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━░░░░-85%25-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| MongoDB | Intermediate | ![MongoDB](https://img.shields.io/badge/━━━━━━━━━━━━░░░░░░░░-65%25-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| Redis | Intermediate | ![Redis](https://img.shields.io/badge/━━━━━━━━━━━░░░░░░░░░░-60%25-DC382D?style=flat-square&logo=redis&logoColor=white) |
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zaynobiddin-android&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=A9FEF7&point=FFFFFF&area=true&area_color=58A6FF)
+### DevOps & Cloud
+
+| Skill | Level | Badge |
+|:------|:-----:|:------|
+| Docker | Intermediate | ![Docker](https://img.shields.io/badge/━━━━━━━━━━━━░░░░░░░░-65%25-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| AWS | Learning | ![AWS](https://img.shields.io/badge/━━━━━━━━░░░░░░░░░░░░-45%25-FF9900?style=flat-square&logo=amazonaws&logoColor=white) |
+| Kubernetes | Learning | ![K8s](https://img.shields.io/badge/━━━━━━━░░░░░░░░░░░░░-40%25-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
+| Git & GitHub | Expert | ![Git](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━░░-92%25-F05032?style=flat-square&logo=git&logoColor=white) |
 
 </div>
 
@@ -184,11 +197,104 @@ Automating build, test, and deployment workflows with GitHub Actions and cloud p
 
 ---
 
-## 🏆 GitHub Trophies
+## 🧠 Engineering Principles
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=zaynobiddin-android&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+<table>
+<tr>
+<td align="center" width="25%">
+
+<br/>
+
+**🔴 SOLID**
+
+Every class has one reason to change. Dependencies point inward. Abstractions over implementations.
+
+<br/>
+
+</td>
+<td align="center" width="25%">
+
+<br/>
+
+**🟡 Clean Code**
+
+Code is read 10× more than it's written. Names tell stories. Functions do one thing, perfectly.
+
+<br/>
+
+</td>
+<td align="center" width="25%">
+
+<br/>
+
+**🟢 Test First**
+
+Tests are not optional. A feature without tests is a bug waiting to happen. TDD is a mindset.
+
+<br/>
+
+</td>
+<td align="center" width="25%">
+
+<br/>
+
+**🔵 Design Patterns**
+
+Don't reinvent the wheel — understand it. Factory, Strategy, Observer, and beyond.
+
+<br/>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+
+<br/>
+
+**⚡ Performance**
+
+Profile before optimizing. Know your N+1 problems. Cache what matters, index what's queried.
+
+<br/>
+
+</td>
+<td align="center" width="25%">
+
+<br/>
+
+**🔒 Security**
+
+Never trust user input. Authenticate, then authorize. Secrets belong in vaults, not in code.
+
+<br/>
+
+</td>
+<td align="center" width="25%">
+
+<br/>
+
+**📦 12-Factor App**
+
+Config in environment. Stateless processes. Logs as streams. Build once, deploy anywhere.
+
+<br/>
+
+</td>
+<td align="center" width="25%">
+
+<br/>
+
+**🔁 CI/CD**
+
+If it's not automated, it's a risk. Ship small, ship often. Broken builds get fixed first.
+
+<br/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
