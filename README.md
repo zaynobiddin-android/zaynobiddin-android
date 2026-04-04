@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- ══ ANIMATED HEADER ══ -->
-<img src="https://capsule-render.vercel.app/api?type=dragon&color=gradient&customColorList=6,12,24,30&height=240&section=header&text=Zaynobiddin%20Kamoliddinov&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=⚡%20Back-End%20Engineer%20%7C%20Java%20Specialist%20%7C%20Uzbekistan%20🇺🇿&descAlignY=65&descSize=18&descColor=A9FEF7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24,30&height=240&section=header&text=Zaynobiddin%20Kamoliddinov&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=⚡%20Back-End%20Engineer%20%7C%20Java%20Specialist%20%7C%20Uzbekistan%20🇺🇿&descAlignY=65&descSize=18&descColor=A9FEF7" width="100%"/>
 
 <br/>
 
@@ -15,7 +15,7 @@
 <br/><br/>
 
 <!-- ══ SOCIAL BADGES ══ -->
-<a href="https://github.com/zaynobiddin-android">
+<a href="https://github.com/zaynobiddin-java">
   <img src="https://img.shields.io/badge/GitHub-zaynobiddin--android-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
@@ -38,7 +38,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/⚡_Focus-Back--End%20Engineering-58A6FF?style=for-the-badge&logo=openjdk&logoColor=white"/>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=zaynobiddin-android&color=A9FEF7&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=zaynobiddin-java&color=A9FEF7&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -389,52 +389,11 @@ Automate or it's a risk. Ship small, ship often. Broken builds get fixed before 
 <!-- ════════════════════════════════════════════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,12,24&height=6&section=header" width="100%"/>
 
-## 🐍 Contribution Activity
-
-<!--
-  ════════════════════════════════════════════════════
-  📌 ONE-TIME SETUP — Contribution Snake Animation
-  ════════════════════════════════════════════════════
-  Step 1: Create this file in your profile repo:
-          .github/workflows/snake.yml
-  Step 2: Paste this workflow content:
-  ─────────────────────────────────────────────────────
-  name: Generate Snake Animation
-  on:
-    schedule: [{ cron: "0 0 * * *" }]
-    workflow_dispatch:
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: ${{ github.repository_owner }}
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  ─────────────────────────────────────────────────────
-  Step 3: Replace YOUR_GITHUB_USERNAME below with your real username.
-  Step 4: Run the workflow manually once from the Actions tab.
-  ════════════════════════════════════════════════════
--->
+## 📈 Contribution Activity
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Contribution Snake" width="100%"
-    src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zaynobiddin-java&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=A9FEF7&point=FFFFFF&area=true&area_color=1e3a5f)
 
 </div>
 
