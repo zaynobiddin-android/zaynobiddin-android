@@ -1,67 +1,89 @@
 <div align="center">
 
-<!-- 3D Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zaynobiddin&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%" alt="Header: Zaynobiddin"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Zaynobiddin%20Kamoliddinov&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Back-End%20Engineer%20%7C%20Java%20Specialist&descAlignY=62&descSize=18&descColor=A9FEF7" width="100%"/>
 
-<!-- Rotating Badge -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Back-end+Engineer+%7C+Java+Specialist;Optimizing+Server-side+Architecture+and+APIs;1%2B+Years+of+Professional+Experience" alt="Typing SVG" />
+<br/>
 
-</div>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Crafting+High-Performance+Back-End+Systems+%F0%9F%9A%80;Spring+Boot+%7C+Microservices+%7C+Clean+Architecture+%E2%9A%A1;Turning+Complex+Problems+into+Elegant+Solutions+%F0%9F%8E%AF;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+</a>
 
----
+<br/><br/>
 
-<div align="center">
-
-### 🎯 **Engineering High-Performance Back-ends**
-
-*Crafting robust server-side applications and APIs with Java and clean architecture.*
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zaynobiddin-android)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaynobiddinkamoliddinov4@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zaynobiddin)
-
-</div>
-
----
-
-## 🚀 **About Me**
-
-<div align="center">
-
-<table>
-<tr><td>
-
-👨‍💻 **Role:** Back-end Developer  
-🎯 **Focus:** Java, Spring Boot, RESTful APIs, Database Optimization  
-📚 **Currently Learning:** Advanced Microservices Architecture, Cloud Computing (AWS), Kubernetes  
-⚙️ **Experience:** 1+ years  
-🔥 **Passion:** Building scalable, maintainable back-end systems and services.  
-🤝 **Open To:** Collaborations, Open Source, Innovative Back-end Projects  
-
-</td></tr>
-</table>
-
-</div>
-
----
-
-## 💻 **Tech Arsenal**
-
-<div align="center">
-
-### **Core Technologies**
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate&theme=dark" alt="Core Tech" />
+  <a href="https://github.com/zaynobiddin-android">
+    <img src="https://img.shields.io/badge/GitHub-zaynobiddin--android-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:zaynobiddinkamoliddinov4@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-zaynobiddinkamoliddinov4-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://t.me/ZKB004">
+    <img src="https://img.shields.io/badge/Telegram-@ZKB004-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/zkb004/">
+    <img src="https://img.shields.io/badge/Instagram-@zkb004-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=zaynobiddin-android&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
 
-### **Databases**
+</div>
+
+---
+
+## `$ whoami`
+
+```java
+@Component
+public class ZaynobiddinKamoliddinov implements BackEndDeveloper {
+
+    private final String name     = "Zaynobiddin Kamoliddinov";
+    private final String role     = "Back-End Engineer | Java Specialist";
+    private final String focus    = "Scalable Microservices & RESTful APIs";
+    private final String location = "Uzbekistan 🇺🇿";
+
+    private final String[] currentlyLearning = {
+        "Advanced Microservices Architecture",
+        "Cloud Infrastructure (AWS)",
+        "Kubernetes & Container Orchestration"
+    };
+
+    private final String[] openTo = {
+        "Freelance Projects",
+        "Open Source Contributions",
+        "Full-Time Opportunities"
+    };
+
+    @Override
+    public String getPassion() {
+        return "Building systems that are fast, clean, and built to last.";
+    }
+}
+```
+
+---
+
+## ⚙️ Tech Arsenal
+
+<div align="center">
+
+### Core Stack
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate&theme=dark&perline=4" />
 </p>
 
-### **Tools & Platforms**
+### Databases
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,aws,docker,kubernetes,linux&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis&theme=dark&perline=4" />
+</p>
+
+### DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux&theme=dark&perline=4" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,idea,postman&theme=dark&perline=4" />
 </p>
 
 </div>
@@ -70,68 +92,127 @@
 
 ## 📊 GitHub Analytics
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=zaynobiddin-android&theme=react-dark&hide_border=true)
-
-
-
-
-
----
-
-## 🎨 **Highlights of My Work**
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-### ⚡ **Performance**
-Delivering optimized, high-performance server-side applications.
-
-</td>
-<td align="center" width="33%">
-
-### 🎯 **Scalability**
-Building back-end solutions to handle growing demands.
-
-</td>
-<td align="center" width="33%">
-
-### 🔧 **Best Practices**
-Writing clean, maintainable, and well-documented code.
-
-</td>
-</tr>
-</table>
-
----
-
-## 🌟 **Current Focus**
-
 <div align="center">
 
-✅ Mastering microservices architecture in Java  
-✅ Optimizing database interactions for large-scale applications  
-✅ Experimenting with cloud deployments (AWS/Kubernetes)  
-✅ Writing clean, testable code with CI/CD pipelines  
+<a href="https://github.com/zaynobiddin-android">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zaynobiddin-android&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=A9FEF7&text_color=c9d1d9&ring_color=58A6FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaynobiddin-android&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/zaynobiddin-android">
+  <img src="https://streak-stats.demolab.com?user=zaynobiddin-android&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=58A6FF&ring=A9FEF7&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF" width="55%"/>
+</a>
+
+<br/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zaynobiddin-android&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=A9FEF7&point=FFFFFF&area=true&area_color=58A6FF)
 
 </div>
 
 ---
 
-## 📫 **Let's Build Together**
+## 🏗️ What I Build
 
 <div align="center">
+<table>
+<tr>
+<td width="33%" align="center">
 
-**Open for freelance projects, collaborations, and full-time opportunities!**
+**⚡ High-Performance APIs**
 
-[![Email](https://img.shields.io/badge/📧_Email-zaynobiddinkamoliddinov4@gmail.com-D14836?style=for-the-badge)](mailto:your.email@example.com)
+Engineered RESTful and GraphQL APIs with Spring Boot built for low latency and high throughput at scale.
 
-*Always excited to discuss Java, back-end systems, or innovative tech projects!*
+</td>
+<td width="33%" align="center">
+
+**🏛️ Clean Architecture**
+
+Applying Domain-Driven Design, SOLID principles, and layered architecture for maintainable codebases.
+
+</td>
+<td width="33%" align="center">
+
+**🔒 Secure Systems**
+
+Implementing robust auth flows with Spring Security, JWT, OAuth2, and role-based access control.
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+
+**📦 Microservices**
+
+Designing loosely-coupled services with Docker, Kubernetes, and async messaging via Kafka/RabbitMQ.
+
+</td>
+<td width="33%" align="center">
+
+**🗄️ Database Mastery**
+
+Optimizing queries, designing schemas, and managing relational and NoSQL databases efficiently.
+
+</td>
+<td width="33%" align="center">
+
+**🔁 CI/CD Pipelines**
+
+Automating build, test, and deployment workflows with GitHub Actions and cloud platforms.
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=zaynobiddin-android&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+## 🎯 Current Focus
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<div align="center">
+
+| Status | Goal |
+|:------:|------|
+| 🔄 **In Progress** | Mastering distributed systems & microservices patterns |
+| 🔄 **In Progress** | Deep-diving AWS (EC2, RDS, S3, Lambda) |
+| 🔄 **In Progress** | Container orchestration with Kubernetes |
+| ✅ **Ongoing** | Writing clean, fully-tested Java code every day |
+| ✅ **Ongoing** | Contributing to open source Java/Spring ecosystem |
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=zaynobiddin-android&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+
+</div>
+
+---
+
+## 🤝 Let's Build Something Great
+
+<div align="center">
+
+*I'm open to freelance projects, collaborations, and full-time opportunities.*
+*If you have an interesting back-end challenge — let's talk.*
+
+<br/>
+
+<a href="mailto:zaynobiddinkamoliddinov4@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Drop_Me_an_Email-D14836?style=for-the-badge&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
