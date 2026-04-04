@@ -165,10 +165,6 @@ public class ZaynobiddinKamoliddinov implements BackEndEngineer {
 
 <div align="center">
 
-<a href="https://github.com/zaynobiddin-java">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaynobiddin-java&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9"/>
-</a>
-
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=zaynobiddin-java&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=58A6FF&ring=A9FEF7&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=c9d1d9" width="56%"/>
